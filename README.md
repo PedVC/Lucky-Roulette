@@ -1,6 +1,6 @@
 # 🎡 Lucky Roulette
 
-Done with the help of WiseMystical-Tree, this is a desktop prize roulette written in Python, with a built-in SQLite database. After every spin, the program uses the history of previous plays to **recalculate the probability of each prize**, so prizes that come out too often become less likely and rare ones become more likely.
+Done with help of the user @WiseMystical-Tree, this is a desktop prize roulette written in Python, with a built-in SQLite database. After every spin, the program uses the history of previous plays to **recalculate the probability of each prize**, so prizes that come out too often become less likely and rare ones become more likely.
 
 ## Table of Contents
 
